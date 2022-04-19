@@ -12,6 +12,15 @@
     "primevue": "3.10.0"
   },
   "dependencies": {
+    "@intlify/nuxt3": "^0.1.10",
+    "@pinia/nuxt": "^0.1.8",
+    "axios": "^0.26.1",
+    "cookie": "^0.5.0",
+    "firebase": "^9.6.11",
+    "firestore-parser": "^0.9.0",
+    "js-cookie": "^3.0.1",
+    "pinia": "^2.0.13",
+    "pinia-plugin-persistedstate-2": "^1.0.0",
     "primeflex": "3.1.2",
     "primeicons": "5.0.0",
     "sass": "^1.50.0",

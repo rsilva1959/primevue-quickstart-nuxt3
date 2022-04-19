@@ -1,7 +1,6 @@
 <template>
 	<div class="container">
 		<div>
-			<img alt="Vue logo" src="./assets/primevue-logo.png">
 			<Toast />
 			
 			<div >
@@ -26,18 +25,18 @@ const greet = () => {
 </script>
 
 <style lang="scss">
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+// .container {
+//   margin: 0 auto;
+//   min-height: 100vh;
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
 
-  div {
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  margin-top: 1rem;
-  }
-}
+//   div {
+// 	  display: flex;
+// 	  flex-direction: column;
+// 	  align-items: center;
+// 	  margin-top: 1rem;
+//   }
+// }
 </style>
